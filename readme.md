@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkaiyuanwg&show_icons=true&theme=transparent" alt="kkaiyuanwg" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkaiyuanwg&theme=transparent" alt="kkaiyuanwg" /></p>
+<p align="center"><img align="center" src="https://github.com/Kkaiyuanwg/github-readme/blob/output/github-contribution-snake.svg" alt="kkaiyuanwg" /></p>
