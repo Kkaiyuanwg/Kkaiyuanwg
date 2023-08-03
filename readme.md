@@ -10,4 +10,4 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Kkaiyuanwg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Kkaiyuanwg" />
 
-<p align="center"><img align="center" src="https://github.com/Kkaiyuanwg/Kkaiyuanwg/output/github-contribution-snake.svg" alt="kkaiyuanwg" /></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Kkaiyuanwg/Kkaiyuanwg/output/github-contribution-snake-dark.svg" alt="kkaiyuanwg" /></p>
