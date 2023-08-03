@@ -12,4 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkaiyuanwg&show_icons=true&theme=transparent" alt="kkaiyuanwg" /></p>
 
-<p align="center"><img align="center" src="https://github.com/Kkaiyuanwg/Kkaiyuanwg/output/github-contribution-snake.svg" alt="kkaiyuanwg" /></p>
+<p align="center"><img align="center" src="https://github.com/Kkaiyuanwg/Kkaiyuanwg/dist/github-contribution-snake.svg" alt="kkaiyuanwg" /></p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/093RgZ7RXHZwIrxZhZYX4Q?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
