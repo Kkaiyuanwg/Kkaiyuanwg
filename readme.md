@@ -10,4 +10,8 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Kkaiyuanwg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Kkaiyuanwg" />
 
-<picture><img align="center" src="https://raw.githubusercontent.com/Kkaiyuanwg/Kkaiyuanwg/output/github-contribution-snake-dark.svg" alt="kkaiyuanwg" /></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
