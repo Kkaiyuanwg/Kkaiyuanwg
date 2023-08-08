@@ -1,7 +1,6 @@
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kkaiyuanwg&label=Profile%20views&color=4ad110&style=flat-square" alt="kkaiyuanwg" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkaiyuanwg&theme=chalk&no-frame=true&column=7" alt="kkaiyuanwg" /></a> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F713&width=435&lines=Hello%2C+I'm+Kkai"></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
