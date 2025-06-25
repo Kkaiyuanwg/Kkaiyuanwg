@@ -9,7 +9,7 @@
 
   <!-- Image on the right -->
   <div style="margin-left: 20px;">
-  [![KKai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkaiyuanwg)](https://github.com/kkaiyuanwg/github-readme-stats)
+  [![KKai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kkaiyuanwg)](https://github.com/kkaiyuanwg/github-readme-stats)
   </div>
 </div>
 
